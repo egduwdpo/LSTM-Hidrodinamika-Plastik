@@ -1,0 +1,27 @@
+{
+  "resolusi": "mingguan",
+  "rmse_test": 52.174881395666354,
+  "mae_test": 42.48367058744884,
+  "mape_test": 11.409511705847093,
+  "r2_test": 0.35876333602529054,
+  "window_minggu": 12,
+  "horizon_minggu": 4,
+  "n_fitur": 15,
+  "fitur_input": [
+    "tinggi_pasut",
+    "u_arus",
+    "v_arus",
+    "mag_arus",
+    "Hs_gelombang",
+    "Tp_gelombang",
+    "kec_angin",
+    "angin_sin",
+    "angin_cos",
+    "curah_hujan",
+    "bulan_sin",
+    "bulan_cos",
+    "minggu_sin",
+    "minggu_cos",
+    "konsentrasi_plastik"
+  ]
+}
